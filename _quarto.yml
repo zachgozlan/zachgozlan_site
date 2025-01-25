@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zach Gozlan"
+  description: "Zach Gozlan's personal website, putting all the stuff I've thrown online into one place."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects
+        text: Data Projects
+      - href: lists_of_stuff
+        text: Lists of Stuff
+      - href: other_media
+        text: Guest Appearances
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
