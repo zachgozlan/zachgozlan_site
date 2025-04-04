@@ -1,11 +1,32 @@
 {
+  "index.qmd": {
+    "index.html": "35d8d4d6"
+  },
+  "about.qmd": {
+    "about.html": "960f90a4"
+  },
+  "projects.qmd": {
+    "projects.html": "3d2ade40"
+  },
+  "projects/index.qmd": {
+    "index.html": "bf9e69a5"
+  },
+  "lists_of_stuff/index.qmd": {
+    "index.html": "b5fa39fa"
+  },
   "other_media/index.qmd": {
-    "index.html": "6edb4e1c"
+    "index.html": "6e56f963"
   },
   "showlog/index.qmd": {
-    "index.html": "cbab367d"
+    "index.html": "207c5973"
   },
   "sportslog/index.qmd": {
-    "index.html": "bad81e29"
+    "index.html": "9738c36c"
+  },
+  "baseball_table/index.qmd": {
+    "index.html": "cb8317a2"
+  },
+  "final_jeopardy/index.qmd": {
+    "index.html": "d342dec5"
   }
 }
