@@ -1,0 +1,15 @@
+{
+  "hash": "7a4e21347d7f5be7828ec75922dc171d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Zach Gozlan\"\n---\n\n\n\n\nThank you for \"surfing the web\" over to my personal website. I am a data guy who lives in Washington, DC. Since 2020, I have worked for the [Universal Service Administrative Company](https://www.usac.org/) on their Data Strategy team.\n\nPrior to USAC, I was part of the first cohort of students to complete the [Master's in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/) at Georgetown University's McCourt School of Public Policy. That degree is on my wall next to an undergrad degree from the University of Pittsburgh, to which I pledge undying loyalty.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
