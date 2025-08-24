@@ -2,4 +2,4 @@
 A personal web page using quarto and github pages, viewable at zachgozlan.info
 
 
-Last updated March 29, 2025
+Last updated August 24, 2025
