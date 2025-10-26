@@ -16,13 +16,17 @@ about:
           url: mailto:zach@zachgozlan.info
   image-width: 20em
   image-shape: rounded
-image: img/homepage_headshot2.png
+image: img/homepage_headshot3.jpg
 ---
 
-Thank you for "hanging ten" to "surf the web" over to my personal website! Those are slang terms - I am not into surfing. (I apologize if there was any confusion. There will be no further jokes.) I am a data guy who lives in Washington, DC. This site is intended to be both an organized place to show off my miscellaneous data projects I've put together over the past few years and a few additional bits and pieces that I wanted to get into one place.
+Hello!
 
-Since 2020, I have worked for the [Universal Service Administrative Company](https://www.usac.org/) on their Data Strategy team.[^1] Prior to USAC, I was part of the first cohort of students to complete the [Master's in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/) at Georgetown University's McCourt School of Public Policy. That degree is on my wall next to an undergraduate degree from the University of Pittsburgh, to which I pledge my undying loyalty.
+I am a data guy who lives in Washington, DC. This site is intended to be both an organized place to show off my miscellaneous data projects I've put together over the past few years and a few additional bits and pieces that I wanted to get into one place.
+
+Since 2020, I have worked for the [Universal Service Administrative Company](https://www.usac.org/) on the Data Strategy team.[^1] Prior to USAC, I was part of the first cohort of students to complete the [Master's in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/) at Georgetown University's McCourt School of Public Policy. That degree is on my wall next to an undergraduate degree from the University of Pittsburgh, to which I pledge my undying loyalty.
 
 [^1]: This is a personal site and is not endorsed by or affiliated with any of my past or present employers. if you are interested in a complete listing of my skills and work experience, by all means [check out my LinkedIn profile.](https://www.linkedin.com/in/zachgozlan/)
 
 You'll get a pretty good sense of what I do outside of work by browsing the site, but the short answer is a lot of trivia-related stuff, some running, and being a sports watcher guy. I'm also very precious about my music tastes - [here's what I've been listening to lately](https://open.spotify.com/playlist/5aTZvW7aik6AgDf903cVQU?si=2c7b825079e14f49), if you're curious.
+
+*This site was last updated October 26, 2025.*
